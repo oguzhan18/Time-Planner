@@ -14,7 +14,9 @@ Use it as you want
  
 ## Making
 - Ease of Use.
-- Flutter 
+- Flutter
+- Firebase DB, Auth
+- Kanban Board
   
 ## Screenshots 
  <p align="center">
