@@ -18,13 +18,6 @@ Use it as you want
   
 ## Screenshots 
  <p align="center">
- <img src="./ss/1.png">
-<img src="./ss/2.png">
-<img src="./ss/3.png"> 
-<img src="./ss/4.png"> 
-<img src="./ss/5.png"> 
- </p>
- <p align="center">
  <img src="./ss/option.png"> 
  </p>
 
